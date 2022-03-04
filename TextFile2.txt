@@ -1,0 +1,7 @@
+1- Entity Layer = Tablolarýn tutlacaðý  ve  Propleri olacak
+
+2- DataAccessLayer = Veri Eriþim katmaný  - CRUD iþlemlerin tum hepsi burda tanýmlanacak
+
+3- BusinessLogicLayer = Veritabaný iþlemlerini eklemeden bu kaytýlarýn þartlarýn saglanýp  saglanmadýgýný kontrol eden katman - Exp: boþ olmasýn - bu karakter olsun,
+
+4- Presentation Layer - User Interface 
